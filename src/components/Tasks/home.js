@@ -27,7 +27,7 @@ const Home = () => {
       {/* Bootstrap Navbar using react-bootstrap components */}
       <Navbar bg="light" expand="lg">
         <Navbar.Brand href="/home" style={{ fontSize: '24px', fontWeight: 'bold' }}>
-          Task Manager - Resolute AI
+          Task Manager 
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarNav" />
         <Navbar.Collapse className="justify-content-end" id="navbarNav">
